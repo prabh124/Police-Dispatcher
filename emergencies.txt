@@ -1,0 +1,54 @@
+received 101 10 medical
+show
+received 102 5 traffic
+show
+received 103 15 medical
+show
+details 103
+modify 103 22
+respond 
+statistics
+show
+received 104 26 crime
+details 104
+received 105 25 medical
+remove 104
+respond
+respond
+statistics
+received 106 6 crime
+received 107 7 traffic
+modify 107 8
+details 106
+details 107
+received 108 20 medical
+respond
+show
+statistics
+received 109 2 traffic
+modify 109 3
+received 110 10 traffic
+received 111 10 crime
+respond
+respond
+respond
+show
+statistics
+received 112 5 medical
+received 113 14 medical
+respond
+received 114 10 crime
+received 115 12 traffic
+show
+respond
+respond
+received 116 8 traffic
+details 116
+received 117 9 crime
+respond
+received 118 9 traffic
+details 118
+received 119 19 medical
+respond
+respond
+show
